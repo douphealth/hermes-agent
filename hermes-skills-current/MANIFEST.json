@@ -1,0 +1,1542 @@
+{
+  "active_count": 132,
+  "active_skill_count": 132,
+  "archived_count": 38,
+  "archived_skill_count": 38,
+  "file_count": 942,
+  "generated_at": "2026-05-31T10:32:22.910032+00:00",
+  "redaction_count": 1188,
+  "skills": [
+    {
+      "category": ".archive",
+      "description": "Use when Alexiios asks to boost organic traffic, SEO, GEO, AEO, AI visibility, SERP rankings, monetization, keyword/entity rankings, topical authority, competitor outranking, or sitewide growth across his WordPress websites. Operates as the revenue-first SEO/GEO/AEO master workflow.",
+      "hash": "0188f8955106ab25",
+      "name": "alexiios-seo-domination-system",
+      "snapshot_path": "archive/alexiios-seo-domination-system",
+      "source_path": ".archive/alexiios-seo-domination-system",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Archive-scale SEO optimization system for auditing, scoring, prioritizing, and batching page upgrades across a WordPress site or content corpus. Designed for maximum ROI, topical authority growth, AEO/GEO gains, and efficient rollout.",
+      "hash": "85f5560d5012c025",
+      "name": "authority-engine-batch-optimizer",
+      "snapshot_path": "archive/authority-engine-batch-optimizer",
+      "source_path": ".archive/authority-engine-batch-optimizer",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Cluster-building layer for the Authority Engine. Turns one topic or commercial territory into a structured pillar/cluster system with support-page plans, hub maps, internal-link blueprints, and rollout sequencing.",
+      "hash": "72d91e99435cefb0",
+      "name": "authority-engine-cluster-factory",
+      "snapshot_path": "archive/authority-engine-cluster-factory",
+      "source_path": ".archive/authority-engine-cluster-factory",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Master operator workflow for the Authority Engine. Routes intake to the right layer, defines decision trees, standardizes outputs, and manages handoffs across audit, SERP research, batch prioritization, and live execution.",
+      "hash": "59dec80920b147d5",
+      "name": "authority-engine-command-center",
+      "snapshot_path": "archive/authority-engine-command-center",
+      "source_path": ".archive/authority-engine-command-center",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Feedback-loop layer for the Authority Engine. Tracks KPI review cadence, refresh triggers, campaign memory, change logging patterns, and recurring optimization loops so SEO work compounds instead of resetting each cycle.",
+      "hash": "521724df64172000",
+      "name": "authority-engine-memory-and-kpi-loop",
+      "snapshot_path": "archive/authority-engine-memory-and-kpi-loop",
+      "source_path": ".archive/authority-engine-memory-and-kpi-loop",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "SERP research and modeling layer for the Authority Engine. Generates query sets, maps winning page types, detects snippet and AI Overview triggers, models competitor patterns, and turns findings into page briefs with information-gain angles.",
+      "hash": "4f2faf29beb9c6b0",
+      "name": "authority-engine-serp-lab",
+      "snapshot_path": "archive/authority-engine-serp-lab",
+      "source_path": ".archive/authority-engine-serp-lab",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Diagnostic and control-layer SEO audit system for technical SEO, content quality, topical coverage, trust/E-E-A-T, schema, snippet/AIO opportunity, and internal-link architecture. Produces prioritized remediation plans for enterprise SEO execution.",
+      "hash": "28497fb7bd809f0b",
+      "name": "authority-engine-site-audit",
+      "snapshot_path": "archive/authority-engine-site-audit",
+      "source_path": ".archive/authority-engine-site-audit",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Extraction-optimization layer for the Authority Engine. Designs direct-answer blocks, snippet capture patterns, PAA coverage, and AI Overview-ready sections to maximize answer-engine visibility and Position 0 opportunities.",
+      "hash": "f5c8bca6169c3f7b",
+      "name": "authority-engine-snippet-and-ai-overview-strike-system",
+      "snapshot_path": "archive/authority-engine-snippet-and-ai-overview-strike-system",
+      "source_path": ".archive/authority-engine-snippet-and-ai-overview-strike-system",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Trust and entity-system layer for the Authority Engine. Builds consistent author/brand/entity architecture, strengthens editorial and methodology routing, and improves AI visibility through durable trust-page and entity-graph patterns.",
+      "hash": "4dd4704de2455e3b",
+      "name": "authority-engine-trust-and-entity-graph",
+      "snapshot_path": "archive/authority-engine-trust-and-entity-graph",
+      "source_path": ".archive/authority-engine-trust-and-entity-graph",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Push-button WordPress REST execution layer for the Authority Engine. Publishes and upgrades pages/posts with enterprise-grade SEO, AEO, GEO, trust, internal links, and verification while working around Cloudflare and plugin-layer blockers.",
+      "hash": "9a980bfe1a140ab4",
+      "name": "authority-engine-wordpress-execution",
+      "snapshot_path": "archive/authority-engine-wordpress-execution",
+      "source_path": ".archive/authority-engine-wordpress-execution",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Enterprise-grade SEO opportunity mining using SERP-overlap competitor discovery, AI-assisted brief generation, and revenue-first content clustering. Use to find hidden competitors, prioritize opportunities, and turn insights into pages, internal links, and conversion assets.",
+      "hash": "a609e3cb5887dd89",
+      "name": "enterprise-ai-seo-competitor-mining",
+      "snapshot_path": "archive/enterprise-ai-seo-competitor-mining",
+      "source_path": ".archive/enterprise-ai-seo-competitor-mining",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Improve WordPress pages for FAQ schema, answer-box extraction, and quick-answer usefulness without adding spammy or fake FAQ sections.",
+      "hash": "f4d24a387c80f05f",
+      "name": "faq-schema-and-answer-box-optimizer",
+      "snapshot_path": "archive/faq-schema-and-answer-box-optimizer",
+      "source_path": ".archive/faq-schema-and-answer-box-optimizer",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Audit and remediate FluentCRM email marketing setup on WordPress sites via REST API. Covers form repair, sequence audit, deliverability checks, and enterprise-grade configuration when admin UI is blocked by Cloudflare WAF.",
+      "hash": "2033e7319302c9f3",
+      "name": "fluentcrm-email-audit",
+      "snapshot_path": "archive/fluentcrm-email-audit",
+      "source_path": ".archive/fluentcrm-email-audit",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific model training",
+      "hash": "3a42e91b242e4689",
+      "name": "grpo-rl-training",
+      "snapshot_path": "archive/grpo-rl-training",
+      "source_path": ".archive/grpo-rl-training",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Run additional Telegram bots concurrently in Hermes by giving each bot its own Hermes home, token, startup process, and DM pairing approval.",
+      "hash": "b15873d5ebc2bd0e",
+      "name": "hermes-multi-telegram-bot-provisioning",
+      "snapshot_path": "archive/hermes-multi-telegram-bot-provisioning",
+      "source_path": ".archive/hermes-multi-telegram-bot-provisioning",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Recover Hermes Telegram bots when they stop responding due to duplicate gateway processes, split HERMES_HOME instances, or startup/import crashes. Covers main + secondary bot setups under /home/hermes/.hermes and /home/hermes/.hermes-alex.",
+      "hash": "5e11067ceeb35fcd",
+      "name": "hermes-telegram-gateway-recovery",
+      "snapshot_path": "archive/hermes-telegram-gateway-recovery",
+      "source_path": ".archive/hermes-telegram-gateway-recovery",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Recover Hermes browser automation in WSL when browser tools fail because Node, agent-browser dependencies, or Playwright browsers are missing. Includes Telegram-session fallback checks on Windows-side paths.",
+      "hash": "e201649ebc79ebf8",
+      "name": "hermes-wsl-browser-runtime-recovery",
+      "snapshot_path": "archive/hermes-wsl-browser-runtime-recovery",
+      "source_path": ".archive/hermes-wsl-browser-runtime-recovery",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Fix broken MailPoet newsletter subscription forms on WordPress. Covers replacing crashing PHP handlers with REST API AJAX, troubleshooting MailPoet 5.x API crashes, finding correct API methods, and fixing silent email delivery failures caused by broken SMTP plugins.",
+      "hash": "6145ba1d4ef8bbc2",
+      "name": "mailpoet-subscribe-fix",
+      "snapshot_path": "archive/mailpoet-subscribe-fix",
+      "source_path": ".archive/mailpoet-subscribe-fix",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Reusable premium HTML/CSS content blocks for WordPress pages and posts. Focuses on elegant, theme-safe visual modules that improve readability, conversions, and perceived quality without breaking layouts.",
+      "hash": "5c201ac4c349016c",
+      "name": "premium-wordpress-html-blocks",
+      "snapshot_path": "archive/premium-wordpress-html-blocks",
+      "source_path": ".archive/premium-wordpress-html-blocks",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Expert guidance for Fully Sharded Data Parallel training with PyTorch FSDP - parameter sharding, mixed precision, CPU offloading, FSDP2",
+      "hash": "c24e9e5123daa6a5",
+      "name": "pytorch-fsdp",
+      "snapshot_path": "archive/pytorch-fsdp",
+      "source_path": ".archive/pytorch-fsdp",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Rewrite workflow driven by live SERP intent, page-type detection, hidden competitor overlap, and content-gap modeling. Designed for high-ROI SEO rewrites that feel human and rankable.",
+      "hash": "26804f3e39e4905a",
+      "name": "serp-driven-rewrite-playbook",
+      "snapshot_path": "archive/serp-driven-rewrite-playbook",
+      "source_path": ".archive/serp-driven-rewrite-playbook",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Senior UI/UX Engineer for premium frontend. Configurable design dials (variance 8, motion 6, density 4). Enforces metric-based rules, hardware-accelerated CSS, anti-AI-slop patterns, and balanced design engineering. Works with any CSS framework including vanilla CSS on WordPress sites.",
+      "hash": "59a9fa753dde3966",
+      "name": "taste-design",
+      "snapshot_path": "archive/taste-design",
+      "source_path": ".archive/taste-design",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Hard-cut broken WordPress email signup/sequence systems onto direct Brevo delivery, disable legacy automations, and verify branded reply-paths end-to-end.",
+      "hash": "027ea9c00ae53d7b",
+      "name": "wordpress-brevo-sequence-hardcut",
+      "snapshot_path": "archive/wordpress-brevo-sequence-hardcut",
+      "source_path": ".archive/wordpress-brevo-sequence-hardcut",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Build and upgrade WordPress category, tag, and hub-page architecture for stronger internal linking, clearer topical authority, and better crawl paths.",
+      "hash": "383c36e7b2d74121",
+      "name": "wordpress-category-hub-architecture",
+      "snapshot_path": "archive/wordpress-category-hub-architecture",
+      "source_path": ".archive/wordpress-category-hub-architecture",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Builds and upgrades commercial SEO clusters on WordPress using parent/child topic architecture, money-page support posts, internal-link systems, trust routing, and conversion next steps.",
+      "hash": "ba18e6ef79cddd9e",
+      "name": "wordpress-commercial-cluster-builder",
+      "snapshot_path": "archive/wordpress-commercial-cluster-builder",
+      "source_path": ".archive/wordpress-commercial-cluster-builder",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Upgrade WordPress E-E-A-T / trust signals safely via REST API when Cloudflare blocks wp-admin. Covers author pages, editorial policy, disclosure, methodology, trust blocks, redirects, and careful cleanup of unsupported claims.",
+      "hash": "855aa561f8ea6091",
+      "name": "wordpress-eeat-remediation-via-rest",
+      "snapshot_path": "archive/wordpress-eeat-remediation-via-rest",
+      "source_path": ".archive/wordpress-eeat-remediation-via-rest",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Hard-cut a WordPress email signup flow from legacy FluentCRM/Brevo routes to a new branded delivery path when old welcome emails or reply-to headers keep leaking through.",
+      "hash": "5877867fbcc7a7e7",
+      "name": "wordpress-fluentcrm-brevo-cutover-hardcut",
+      "snapshot_path": "archive/wordpress-fluentcrm-brevo-cutover-hardcut",
+      "source_path": ".archive/wordpress-fluentcrm-brevo-cutover-hardcut",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Audit and fix FluentCRM email marketing infrastructure on WordPress sites \u2014 form handlers, sequences, cron, delivery, using REST API admin credentials.",
+      "hash": "98801d768454b97b",
+      "name": "wordpress-fluentcrm-email-audit-fix",
+      "snapshot_path": "archive/wordpress-fluentcrm-email-audit-fix",
+      "source_path": ".archive/wordpress-fluentcrm-email-audit-fix",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Improve WordPress image alt text, captions, and snippet usefulness for SEO and accessibility without turning images into keyword-stuffed nonsense.",
+      "hash": "2711dc83e4783028",
+      "name": "wordpress-image-alt-caption-snippet-optimizer",
+      "snapshot_path": "archive/wordpress-image-alt-caption-snippet-optimizer",
+      "source_path": ".archive/wordpress-image-alt-caption-snippet-optimizer",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Speed up a WordPress site quickly using the strongest low-risk wins first: baseline with short timeouts, check caching, inspect plugins via REST API, activate LiteSpeed Cache if installed but inactive, then verify live improvement.",
+      "hash": "76e7ed9354de35f7",
+      "name": "wordpress-performance-quick-wins",
+      "snapshot_path": "archive/wordpress-performance-quick-wins",
+      "source_path": ".archive/wordpress-performance-quick-wins",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Build a commercial SEO cluster and lead funnel on a WordPress site via REST when wp-admin is blocked by Cloudflare. Covers safe page/post creation, Spectra form embedding, thank-you/download flow, and internal-link reinforcement.",
+      "hash": "1da3cc468e3fb59d",
+      "name": "wordpress-rest-commercial-seo-funnel",
+      "snapshot_path": "archive/wordpress-rest-commercial-seo-funnel",
+      "source_path": ".archive/wordpress-rest-commercial-seo-funnel",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "SOTA enterprise-grade system for rewriting and upgrading WordPress content via REST with premium human-style copy, visual HTML modules, schema planning, SERP intent matching, duplicate consolidation, and strict verification.",
+      "hash": "8b72dfb829bd80e2",
+      "name": "wordpress-sota-seo-content-system",
+      "snapshot_path": "archive/wordpress-sota-seo-content-system",
+      "source_path": ".archive/wordpress-sota-seo-content-system",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Add compact trust blocks, proof elements, methodology notes, and evidence-oriented UI components to WordPress pages without bloating or fabricating authority.",
+      "hash": "1ba50ac62a6999b3",
+      "name": "wordpress-trust-blocks-and-proof-elements",
+      "snapshot_path": "archive/wordpress-trust-blocks-and-proof-elements",
+      "source_path": ".archive/wordpress-trust-blocks-and-proof-elements",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Audit WordPress email marketing infrastructure using REST API when wp-admin is Cloudflare-blocked. Covers FluentCRM, FluentSMTP, FluentForms, Kadence ESP integrations, and form connectivity analysis.",
+      "hash": "93758faaa57fea29",
+      "name": "wp-email-audit",
+      "snapshot_path": "archive/wp-email-audit",
+      "source_path": ".archive/wp-email-audit",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Comprehensive WordPress site audit and remote remediation using CLI tools and REST API. Covers SEO, security, performance, and indexing when browser tools are unavailable or admin access is restricted.",
+      "hash": "87784bedbc057664",
+      "name": "wp-enterprise-audit",
+      "snapshot_path": "archive/wp-enterprise-audit",
+      "source_path": ".archive/wp-enterprise-audit",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Deploy custom HTML/CSS/JS pages via the WP REST API. Covers theme reset, Cloudflare workarounds, and WordPress auto-tag prevention",
+      "hash": "15d30beff2ea2439",
+      "name": "wp-page-content-redesign",
+      "snapshot_path": "archive/wp-page-content-redesign",
+      "source_path": ".archive/wp-page-content-redesign",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Edit WordPress block theme templates, template parts (header, footer), and global styles via the WP REST API when browser tools are unavailable.",
+      "hash": "34b0bb94d52eeb6a",
+      "name": "wp-template-editing",
+      "snapshot_path": "archive/wp-template-editing",
+      "source_path": ".archive/wp-template-editing",
+      "status": "archive"
+    },
+    {
+      "category": ".archive",
+      "description": "Diagnose and remediate split-brain WordPress metadata where body content updates succeed but Yoast or plugin-managed public title/meta output remains stale.",
+      "hash": "8dc5dc81615d83be",
+      "name": "yoast-snippet-layer-remediation",
+      "snapshot_path": "archive/yoast-snippet-layer-remediation",
+      "source_path": ".archive/yoast-snippet-layer-remediation",
+      "status": "archive"
+    },
+    {
+      "category": "apple",
+      "description": "Manage Apple Notes via memo CLI: create, search, edit.",
+      "hash": "c652e01e47938b8a",
+      "name": "apple-notes",
+      "snapshot_path": "active/apple/apple-notes",
+      "source_path": "apple/apple-notes",
+      "status": "active"
+    },
+    {
+      "category": "apple",
+      "description": "Apple Reminders via remindctl: add, list, complete.",
+      "hash": "7ed9206a4df2739d",
+      "name": "apple-reminders",
+      "snapshot_path": "active/apple/apple-reminders",
+      "source_path": "apple/apple-reminders",
+      "status": "active"
+    },
+    {
+      "category": "apple",
+      "description": "Track Apple devices/AirTags via FindMy.app on macOS.",
+      "hash": "19ec56e3b7f9f0be",
+      "name": "findmy",
+      "snapshot_path": "active/apple/findmy",
+      "source_path": "apple/findmy",
+      "status": "active"
+    },
+    {
+      "category": "apple",
+      "description": "Send and receive iMessages/SMS via the imsg CLI on macOS.",
+      "hash": "bc68b1648e301409",
+      "name": "imessage",
+      "snapshot_path": "active/apple/imessage",
+      "source_path": "apple/imessage",
+      "status": "active"
+    },
+    {
+      "category": "apple",
+      "description": "|",
+      "hash": "08b4bb4647d983d1",
+      "name": "macos-computer-use",
+      "snapshot_path": "active/apple/macos-computer-use",
+      "source_path": "apple/macos-computer-use",
+      "status": "active"
+    },
+    {
+      "category": "autonomous-ai-agents",
+      "description": "Delegate coding to Claude Code CLI (features, PRs).",
+      "hash": "4d195cf896e7d1a0",
+      "name": "claude-code",
+      "snapshot_path": "active/autonomous-ai-agents/claude-code",
+      "source_path": "autonomous-ai-agents/claude-code",
+      "status": "active"
+    },
+    {
+      "category": "autonomous-ai-agents",
+      "description": "Delegate coding to OpenAI Codex CLI (features, PRs).",
+      "hash": "55554cc334c04357",
+      "name": "codex",
+      "snapshot_path": "active/autonomous-ai-agents/codex",
+      "source_path": "autonomous-ai-agents/codex",
+      "status": "active"
+    },
+    {
+      "category": "autonomous-ai-agents",
+      "description": "Complete guide to using and extending Hermes Agent \u2014 CLI usage, setup, configuration, spawning additional agents, gateway platforms, skills, voice, tools, profiles, and a concise contributor reference. Load this skill when helping users configure Hermes, troubleshoot issues, spawn agent instances, or make code contributions.",
+      "hash": "a8d0a181db3cd149",
+      "name": "hermes-agent",
+      "snapshot_path": "active/autonomous-ai-agents/hermes-agent",
+      "source_path": "autonomous-ai-agents/hermes-agent",
+      "status": "active"
+    },
+    {
+      "category": "autonomous-ai-agents",
+      "description": "Use when a Hermes Kanban worker wants to run Codex CLI as an isolated implementation lane while Hermes keeps ownership of task lifecycle, reconciliation, testing, and handoff.",
+      "hash": "ca946e1f7968f767",
+      "name": "kanban-codex-lane",
+      "snapshot_path": "active/autonomous-ai-agents/kanban-codex-lane",
+      "source_path": "autonomous-ai-agents/kanban-codex-lane",
+      "status": "active"
+    },
+    {
+      "category": "autonomous-ai-agents",
+      "description": "Delegate coding to OpenCode CLI (features, PR review).",
+      "hash": "afb3ea1f1b430070",
+      "name": "opencode",
+      "snapshot_path": "active/autonomous-ai-agents/opencode",
+      "source_path": "autonomous-ai-agents/opencode",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Dark-themed SVG architecture/cloud/infra diagrams as HTML.",
+      "hash": "0e7e2736aafe052e",
+      "name": "architecture-diagram",
+      "snapshot_path": "active/creative/architecture-diagram",
+      "source_path": "creative/architecture-diagram",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "ASCII art: pyfiglet, cowsay, boxes, image-to-ascii.",
+      "hash": "b69fdd300045a3e6",
+      "name": "ascii-art",
+      "snapshot_path": "active/creative/ascii-art",
+      "source_path": "creative/ascii-art",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "ASCII video: convert video/audio to colored ASCII MP4/GIF.",
+      "hash": "1d4f84e0eacc0d8a",
+      "name": "ascii-video",
+      "snapshot_path": "active/creative/ascii-video",
+      "source_path": "creative/ascii-video",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Article illustrations: type \u00d7 style \u00d7 palette consistency.",
+      "hash": "9de0861d5fe4da97",
+      "name": "baoyu-article-illustrator",
+      "snapshot_path": "active/creative/baoyu-article-illustrator",
+      "source_path": "creative/baoyu-article-illustrator",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Knowledge comics (\u77e5\u8bc6\u6f2b\u753b): educational, biography, tutorial.",
+      "hash": "39daa86a4c9737a5",
+      "name": "baoyu-comic",
+      "snapshot_path": "active/creative/baoyu-comic",
+      "source_path": "creative/baoyu-comic",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Infographics: 21 layouts x 21 styles (\u4fe1\u606f\u56fe, \u53ef\u89c6\u5316).",
+      "hash": "89e25da6d8ea1cac",
+      "name": "baoyu-infographic",
+      "snapshot_path": "active/creative/baoyu-infographic",
+      "source_path": "creative/baoyu-infographic",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Design one-off HTML artifacts (landing, deck, prototype).",
+      "hash": "4c24fb9579a06f16",
+      "name": "claude-design",
+      "snapshot_path": "active/creative/claude-design",
+      "source_path": "creative/claude-design",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Generate images, video, and audio with ComfyUI \u2014 install, launch, manage nodes/models, run workflows with parameter injection. Uses the official comfy-cli for lifecycle and direct REST/WebSocket API for execution.",
+      "hash": "fd49c1d47200826b",
+      "name": "comfyui",
+      "snapshot_path": "active/creative/comfyui",
+      "source_path": "creative/comfyui",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Generate project ideas via creative constraints.",
+      "hash": "a0768ddf7685e2a3",
+      "name": "creative-ideation",
+      "snapshot_path": "active/creative/creative-ideation",
+      "source_path": "creative/creative-ideation",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Author/validate/export Google's DESIGN.md token spec files.",
+      "hash": "38ed14bc712a413f",
+      "name": "design-md",
+      "snapshot_path": "active/creative/design-md",
+      "source_path": "creative/design-md",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Hand-drawn Excalidraw JSON diagrams (arch, flow, seq).",
+      "hash": "beef7b8ea01e73a3",
+      "name": "excalidraw",
+      "snapshot_path": "active/creative/excalidraw",
+      "source_path": "creative/excalidraw",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Humanize text: strip AI-isms and add real voice.",
+      "hash": "b11a25b5cf310ce9",
+      "name": "humanizer",
+      "snapshot_path": "active/creative/humanizer",
+      "source_path": "creative/humanizer",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Manim CE animations: 3Blue1Brown math/algo videos.",
+      "hash": "3459a6af999f0c9b",
+      "name": "manim-video",
+      "snapshot_path": "active/creative/manim-video",
+      "source_path": "creative/manim-video",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Use when upgrading any website, WordPress post, landing page, app UI, or Claude/Hermes-generated frontend to avoid generic AI design. Applies a three-pass system: motion/easing polish, impeccable spacing/typography/layout correction, and taste/reference-driven art direction.",
+      "hash": "aeff19d9cd3658a8",
+      "name": "motion-impeccable-taste-design",
+      "snapshot_path": "active/creative/motion-impeccable-taste-design",
+      "source_path": "creative/motion-impeccable-taste-design",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Use when the user asks for SOTA design superpowers, Claude Design-like artifacts, landing pages, dashboards, decks, mobile/app prototypes, brand systems, visual redesign, critique, or design-system-driven UI. Routes Hermes through nexu-io/open-design's skills, DESIGN.md systems, craft rules, templates, frames, and anti-AI-slop critique before producing artifacts.",
+      "hash": "009b0e1d8c870162",
+      "name": "open-design-superpowers",
+      "snapshot_path": "active/creative/open-design-superpowers",
+      "source_path": "creative/open-design-superpowers",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "p5.js sketches: gen art, shaders, interactive, 3D.",
+      "hash": "6a9722e2633ecdb3",
+      "name": "p5js",
+      "snapshot_path": "active/creative/p5js",
+      "source_path": "creative/p5js",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Pixel art w/ era palettes (NES, Game Boy, PICO-8).",
+      "hash": "01f351726675bb5e",
+      "name": "pixel-art",
+      "snapshot_path": "active/creative/pixel-art",
+      "source_path": "creative/pixel-art",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "54 real design systems (Stripe, Linear, Vercel) as HTML/CSS.",
+      "hash": "cd89bdb86008bb30",
+      "name": "popular-web-designs",
+      "snapshot_path": "active/creative/popular-web-designs",
+      "source_path": "creative/popular-web-designs",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Use when building creative browser demos with @chenglou/pretext \u2014 DOM-free text layout for ASCII art, typographic flow around obstacles, text-as-geometry games, kinetic typography, and text-powered generative art. Produces single-file HTML demos by default.",
+      "hash": "532570c95d1a0bf6",
+      "name": "pretext",
+      "snapshot_path": "active/creative/pretext",
+      "source_path": "creative/pretext",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Throwaway HTML mockups: 2-3 design variants to compare.",
+      "hash": "c643ff8657341b39",
+      "name": "sketch",
+      "snapshot_path": "active/creative/sketch",
+      "source_path": "creative/sketch",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Songwriting craft and Suno AI music prompts.",
+      "hash": "093dfa88e5b3596a",
+      "name": "songwriting-and-ai-music",
+      "snapshot_path": "active/creative/songwriting-and-ai-music",
+      "source_path": "creative/songwriting-and-ai-music",
+      "status": "active"
+    },
+    {
+      "category": "creative",
+      "description": "Control a running TouchDesigner instance via twozero MCP \u2014 create operators, set parameters, wire connections, execute Python, build real-time visuals. 36 native tools.",
+      "hash": "70a4217786c49122",
+      "name": "touchdesigner-mcp",
+      "snapshot_path": "active/creative/touchdesigner-mcp",
+      "source_path": "creative/touchdesigner-mcp",
+      "status": "active"
+    },
+    {
+      "category": "data-science",
+      "description": "Iterative Python via live Jupyter kernel (hamelnb).",
+      "hash": "d93c4b4f50e66c0c",
+      "name": "jupyter-live-kernel",
+      "snapshot_path": "active/data-science/jupyter-live-kernel",
+      "source_path": "data-science/jupyter-live-kernel",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Unified enterprise SEO execution system for planning, writing, rewriting, clustering, and upgrading content to maximize #1 rankings, topical authority, Featured Snippets, AI Overviews, answer-engine extraction, AI visibility, and conversions. Includes non-plugin AI discovery endpoint patterns in references/ai-discovery-worker-geo-aeo-pattern.md.",
+      "hash": "de8cd06b783c2e58",
+      "name": "authority-engine",
+      "snapshot_path": "active/devops/authority-engine",
+      "source_path": "devops/authority-engine",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Hermes integration layer for Codex-first SEO/GEO/AEO/AI-visibility superpowers using AgriciDaniel/codex-seo, GEO Optimizer, WordPress llms.txt/plugin patterns, and AI visibility monitoring.",
+      "hash": "6ab94498dbacc0d8",
+      "name": "codex-seo-superpowers",
+      "snapshot_path": "active/devops/codex-seo-superpowers",
+      "source_path": "devops/codex-seo-superpowers",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Use when recovering, provisioning, or troubleshooting Hermes Agent runtime integrations: Telegram gateways, multiple bot homes, split HERMES_HOME processes, WSL browser automation, Playwright/Node dependencies, and BotFather/Telegram Web fallback checks.",
+      "hash": "589ef6cb47103f36",
+      "name": "hermes-runtime-operations",
+      "snapshot_path": "active/devops/hermes-runtime-operations",
+      "source_path": "devops/hermes-runtime-operations",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Hermes operating mode for WordPress SEO/GEO/AEO Supercharger runs: URL-only intake, evidence-first audits, surgical drafts, Yoast-compatible WordPress draft edits, AI visibility, topical authority, internal links, schema, alt text, trust, and conversion improvements.",
+      "hash": "74c0657e68b839fe",
+      "name": "hermes-seo-geo-aeo-supercharger",
+      "snapshot_path": "active/devops/hermes-seo-geo-aeo-supercharger",
+      "source_path": "devops/hermes-seo-geo-aeo-supercharger",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Decomposition playbook + anti-temptation rules for an orchestrator profile routing work through Kanban. The \"don't do the work yourself\" rule and the basic lifecycle are auto-injected into every kanban worker's system prompt; this skill is the deeper playbook when you're specifically playing the orchestrator role.",
+      "hash": "c60c7fcfb64157d7",
+      "name": "kanban-orchestrator",
+      "snapshot_path": "active/devops/kanban-orchestrator",
+      "source_path": "devops/kanban-orchestrator",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Pitfalls, examples, and edge cases for Hermes Kanban workers. The lifecycle itself is auto-injected into every worker's system prompt as KANBAN_GUIDANCE (from agent/prompt_builder.py); this skill is what you load when you want deeper detail on specific scenarios.",
+      "hash": "1a4324dc156cd65b",
+      "name": "kanban-worker",
+      "snapshot_path": "active/devops/kanban-worker",
+      "source_path": "devops/kanban-worker",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and applies high-end design standards without breaking functionality. Works with any CSS framework or vanilla CSS.",
+      "hash": "6c5e10cc182b4360",
+      "name": "redesign",
+      "snapshot_path": "active/devops/redesign",
+      "source_path": "devops/redesign",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Build authenticated enterprise portfolio inventories across GitHub, Cloudflare, Lovable, Supabase, and similar SaaS dashboards; merge data into management workbooks without storing secrets.",
+      "hash": "e4f4b413656eea19",
+      "name": "saas-portfolio-inventory",
+      "snapshot_path": "active/devops/saas-portfolio-inventory",
+      "source_path": "devops/saas-portfolio-inventory",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "SOTA SEO/GEO/AEO execution layer distilled from public SEO skills/toolkits: GEO citations, technical audits, SERP crossover, content decay, topical maps, keyword gaps, entity extraction, internal linking.",
+      "hash": "0e96c97fccbc6231",
+      "name": "seo-superpowers-public-toolkits",
+      "snapshot_path": "active/devops/seo-superpowers-public-toolkits",
+      "source_path": "devops/seo-superpowers-public-toolkits",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Webhook subscriptions: event-driven agent runs.",
+      "hash": "7633660a13e73230",
+      "name": "webhook-subscriptions",
+      "snapshot_path": "active/devops/webhook-subscriptions",
+      "source_path": "devops/webhook-subscriptions",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Use when auditing, repairing, configuring, or verifying WordPress backup systems across MainWP, WPvivid, Google Drive/remote storage, child-site connectivity, schedules, logs, and fleet-wide backup execution.",
+      "hash": "27aff9bd9be597c9",
+      "name": "wordpress-backup-operations",
+      "snapshot_path": "active/devops/wordpress-backup-operations",
+      "source_path": "devops/wordpress-backup-operations",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Use when auditing, repairing, replacing, or hard-cutting WordPress email marketing systems across FluentCRM, FluentSMTP, FluentForms, MailPoet, Brevo, Kadence/ESP integrations, signup forms, automations, reply paths, and deliverability when wp-admin may be blocked by Cloudflare.",
+      "hash": "83ff2f8818eea4da",
+      "name": "wordpress-email-marketing-operations",
+      "snapshot_path": "active/devops/wordpress-email-marketing-operations",
+      "source_path": "devops/wordpress-email-marketing-operations",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Autonomous enterprise WordPress Organic Growth OS for Alexiios' portfolio. Use when operating managed WordPress sites for SEO/GEO/AEO, topical authority, AI visibility, monetization, conversion, technical QA, and self-improving token-efficient execution.",
+      "hash": "ed47bd0bd2875db5",
+      "name": "wordpress-organic-growth-os",
+      "snapshot_path": "active/devops/wordpress-organic-growth-os",
+      "source_path": "devops/wordpress-organic-growth-os",
+      "status": "active"
+    },
+    {
+      "category": "devops",
+      "description": "Surgical WordPress performance optimization \u2014 PhastPress tuning, Cloudflare caching rules, Elementor-compatible SOTA post meta injection, and speed diagnostics. Zero-breakage priority; never deactivate/overwrite plugins or functions.php handlers.",
+      "hash": "d3015307ca797a8c",
+      "name": "wordpress-performance-optimization",
+      "snapshot_path": "active/devops/wordpress-performance-optimization",
+      "source_path": "devops/wordpress-performance-optimization",
+      "status": "active"
+    },
+    {
+      "category": "dogfood",
+      "description": "Exploratory QA of web apps: find bugs, evidence, reports.",
+      "hash": "63fa4eba10c407f7",
+      "name": "dogfood",
+      "snapshot_path": "active/dogfood",
+      "source_path": "dogfood",
+      "status": "active"
+    },
+    {
+      "category": "email",
+      "description": "Himalaya CLI: IMAP/SMTP email from terminal.",
+      "hash": "4410c2e6fce5c241",
+      "name": "himalaya",
+      "snapshot_path": "active/email/himalaya",
+      "source_path": "email/himalaya",
+      "status": "active"
+    },
+    {
+      "category": "gaming",
+      "description": "Host modded Minecraft servers (CurseForge, Modrinth).",
+      "hash": "858f64c0e67efb29",
+      "name": "minecraft-modpack-server",
+      "snapshot_path": "active/gaming/minecraft-modpack-server",
+      "source_path": "gaming/minecraft-modpack-server",
+      "status": "active"
+    },
+    {
+      "category": "gaming",
+      "description": "Play Pokemon via headless emulator + RAM reads.",
+      "hash": "fe8da8e6dc5599ef",
+      "name": "pokemon-player",
+      "snapshot_path": "active/gaming/pokemon-player",
+      "source_path": "gaming/pokemon-player",
+      "status": "active"
+    },
+    {
+      "category": "github",
+      "description": "Inspect codebases w/ pygount: LOC, languages, ratios.",
+      "hash": "87ddc0578d9bcbc8",
+      "name": "codebase-inspection",
+      "snapshot_path": "active/github/codebase-inspection",
+      "source_path": "github/codebase-inspection",
+      "status": "active"
+    },
+    {
+      "category": "github",
+      "description": "GitHub auth setup: HTTPS tokens, SSH keys, gh CLI login.",
+      "hash": "86165db42b6f3e16",
+      "name": "github-auth",
+      "snapshot_path": "active/github/github-auth",
+      "source_path": "github/github-auth",
+      "status": "active"
+    },
+    {
+      "category": "github",
+      "description": "Review PRs: diffs, inline comments via gh or REST.",
+      "hash": "d03c7cc4ed29eb1c",
+      "name": "github-code-review",
+      "snapshot_path": "active/github/github-code-review",
+      "source_path": "github/github-code-review",
+      "status": "active"
+    },
+    {
+      "category": "github",
+      "description": "Create, triage, label, assign GitHub issues via gh or REST.",
+      "hash": "e3fdc0df21302ed1",
+      "name": "github-issues",
+      "snapshot_path": "active/github/github-issues",
+      "source_path": "github/github-issues",
+      "status": "active"
+    },
+    {
+      "category": "github",
+      "description": "GitHub PR lifecycle: branch, commit, open, CI, merge.",
+      "hash": "92fad037030ca8d5",
+      "name": "github-pr-workflow",
+      "snapshot_path": "active/github/github-pr-workflow",
+      "source_path": "github/github-pr-workflow",
+      "status": "active"
+    },
+    {
+      "category": "github",
+      "description": "Clone, create, fork, configure, and manage GitHub repositories. Manage remotes, secrets, releases, and workflows. Works with gh CLI or falls back to git + GitHub REST API via curl.",
+      "hash": "79d5f0d026706698",
+      "name": "github-repo-management",
+      "snapshot_path": "active/github/github-repo-management",
+      "source_path": "github/github-repo-management",
+      "status": "active"
+    },
+    {
+      "category": "graphify",
+      "description": "any input (code, docs, papers, images) \u2192 knowledge graph \u2192 clustered communities \u2192 HTML + JSON + audit report",
+      "hash": "84f550e828e6184c",
+      "name": "graphify",
+      "snapshot_path": "active/graphify",
+      "source_path": "graphify",
+      "status": "active"
+    },
+    {
+      "category": "leisure",
+      "description": "Find nearby places (restaurants, cafes, bars, pharmacies, etc.) using OpenStreetMap. Works with coordinates, addresses, cities, zip codes, or Telegram location pins. No API keys needed.",
+      "hash": "392c0c6880331527",
+      "name": "find-nearby",
+      "snapshot_path": "active/leisure/find-nearby",
+      "source_path": "leisure/find-nearby",
+      "status": "active"
+    },
+    {
+      "category": "mcp",
+      "description": "Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.",
+      "hash": "b76f64a0e82ea216",
+      "name": "mcporter",
+      "snapshot_path": "active/mcp/mcporter",
+      "source_path": "mcp/mcporter",
+      "status": "active"
+    },
+    {
+      "category": "mcp",
+      "description": "MCP client: connect servers, register tools (stdio/HTTP).",
+      "hash": "86b9463c3988c47e",
+      "name": "native-mcp",
+      "snapshot_path": "active/mcp/native-mcp",
+      "source_path": "mcp/native-mcp",
+      "status": "active"
+    },
+    {
+      "category": "media",
+      "description": "Search/download GIFs from Tenor via curl + jq.",
+      "hash": "d5a09ca6b4c2d714",
+      "name": "gif-search",
+      "snapshot_path": "active/media/gif-search",
+      "source_path": "media/gif-search",
+      "status": "active"
+    },
+    {
+      "category": "media",
+      "description": "HeartMuLa: Suno-like song generation from lyrics + tags.",
+      "hash": "d6f8322ba9ab4756",
+      "name": "heartmula",
+      "snapshot_path": "active/media/heartmula",
+      "source_path": "media/heartmula",
+      "status": "active"
+    },
+    {
+      "category": "media",
+      "description": "Audio spectrograms/features (mel, chroma, MFCC) via CLI.",
+      "hash": "d9d8d1394c630bd8",
+      "name": "songsee",
+      "snapshot_path": "active/media/songsee",
+      "source_path": "media/songsee",
+      "status": "active"
+    },
+    {
+      "category": "media",
+      "description": "Spotify: play, search, queue, manage playlists and devices.",
+      "hash": "84b4c86e75f08288",
+      "name": "spotify",
+      "snapshot_path": "active/media/spotify",
+      "source_path": "media/spotify",
+      "status": "active"
+    },
+    {
+      "category": "media",
+      "description": "YouTube transcripts to summaries, threads, blogs.",
+      "hash": "f6e573f84f3f62da",
+      "name": "youtube-content",
+      "snapshot_path": "active/media/youtube-content",
+      "source_path": "media/youtube-content",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "Serverless GPU cloud platform for running ML workloads. Use when you need on-demand GPU access without infrastructure management, deploying ML models as APIs, or running batch jobs with automatic scaling.",
+      "hash": "4409d68d2f70d646",
+      "name": "modal",
+      "snapshot_path": "active/mlops/cloud/modal",
+      "source_path": "mlops/cloud/modal",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "lm-eval-harness: benchmark LLMs (MMLU, GSM8K, etc.).",
+      "hash": "5426016d51e3b49e",
+      "name": "lm-evaluation-harness",
+      "snapshot_path": "active/mlops/evaluation/lm-evaluation-harness",
+      "source_path": "mlops/evaluation/lm-evaluation-harness",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "W&B: log ML experiments, sweeps, model registry, dashboards.",
+      "hash": "66a2b23d7d0df76f",
+      "name": "weights-and-biases",
+      "snapshot_path": "active/mlops/evaluation/weights-and-biases",
+      "source_path": "mlops/evaluation/weights-and-biases",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "HuggingFace hf CLI: search/download/upload models, datasets.",
+      "hash": "10d5bdf26e08ce47",
+      "name": "huggingface-hub",
+      "snapshot_path": "active/mlops/huggingface-hub",
+      "source_path": "mlops/huggingface-hub",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when deploying models on consumer hardware, Apple Silicon, or when needing flexible quantization from 2-8 bit without GPU requirements.",
+      "hash": "6a8821b661c3d5c2",
+      "name": "gguf",
+      "snapshot_path": "active/mlops/inference/gguf",
+      "source_path": "mlops/inference/gguf",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "Control LLM output with regex and grammars, guarantee valid JSON/XML/code generation, enforce structured formats, and build multi-step workflows with Guidance - Microsoft Research's constrained generation framework",
+      "hash": "b3fe1b78c8cd7a8d",
+      "name": "guidance",
+      "snapshot_path": "active/mlops/inference/guidance",
+      "source_path": "mlops/inference/guidance",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "llama.cpp local GGUF inference + HF Hub model discovery.",
+      "hash": "9c1ef45f6197fbc0",
+      "name": "llama-cpp",
+      "snapshot_path": "active/mlops/inference/llama-cpp",
+      "source_path": "mlops/inference/llama-cpp",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "OBLITERATUS: abliterate LLM refusals (diff-in-means).",
+      "hash": "9fb394a0af2a9733",
+      "name": "obliteratus",
+      "snapshot_path": "active/mlops/inference/obliteratus",
+      "source_path": "mlops/inference/obliteratus",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "Outlines: structured JSON/regex/Pydantic LLM generation.",
+      "hash": "dfe69a8c1769e548",
+      "name": "outlines",
+      "snapshot_path": "active/mlops/inference/outlines",
+      "source_path": "mlops/inference/outlines",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "vLLM: high-throughput LLM serving, OpenAI API, quantization.",
+      "hash": "ba36b5a3cc40da79",
+      "name": "vllm",
+      "snapshot_path": "active/mlops/inference/vllm",
+      "source_path": "mlops/inference/vllm",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "Use when planning or troubleshooting LLM training runs across parameter-efficient fine-tuning, GRPO/RL training, distributed PyTorch/FSDP, memory optimization, checkpoints, evaluation loops, and production training runbooks.",
+      "hash": "111160b51d22782d",
+      "name": "llm-training-operations",
+      "snapshot_path": "active/mlops/llm-training-operations",
+      "source_path": "mlops/llm-training-operations",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "AudioCraft: MusicGen text-to-music, AudioGen text-to-sound.",
+      "hash": "eebe52632e3312a5",
+      "name": "audiocraft",
+      "snapshot_path": "active/mlops/models/audiocraft",
+      "source_path": "mlops/models/audiocraft",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "OpenAI's model connecting vision and language. Enables zero-shot image classification, image-text matching, and cross-modal retrieval. Trained on 400M image-text pairs. Use for image search, content moderation, or vision-language tasks without fine-tuning. Best for general-purpose image understanding.",
+      "hash": "437d50cf395fadac",
+      "name": "clip",
+      "snapshot_path": "active/mlops/models/clip",
+      "source_path": "mlops/models/clip",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "SAM: zero-shot image segmentation via points, boxes, masks.",
+      "hash": "86440d99e8ec3bd7",
+      "name": "segment-anything",
+      "snapshot_path": "active/mlops/models/segment-anything",
+      "source_path": "mlops/models/segment-anything",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "State-of-the-art text-to-image generation with Stable Diffusion models via HuggingFace Diffusers. Use when generating images from text prompts, performing image-to-image translation, inpainting, or building custom diffusion pipelines.",
+      "hash": "5c0f78ac8e6eb624",
+      "name": "stable-diffusion",
+      "snapshot_path": "active/mlops/models/stable-diffusion",
+      "source_path": "mlops/models/stable-diffusion",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "OpenAI's general-purpose speech recognition model. Supports 99 languages, transcription, translation to English, and language identification. Six model sizes from tiny (39M params) to large (1550M params). Use for speech-to-text, podcast transcription, or multilingual audio processing. Best for robust, multilingual ASR.",
+      "hash": "c32fe76ec6f15ab1",
+      "name": "whisper",
+      "snapshot_path": "active/mlops/models/whisper",
+      "source_path": "mlops/models/whisper",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "DSPy: declarative LM programs, auto-optimize prompts, RAG.",
+      "hash": "94e534d6682d4745",
+      "name": "dspy",
+      "snapshot_path": "active/mlops/research/dspy",
+      "source_path": "mlops/research/dspy",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "Axolotl: YAML LLM fine-tuning (LoRA, DPO, GRPO).",
+      "hash": "06150971c4124a5b",
+      "name": "axolotl",
+      "snapshot_path": "active/mlops/training/axolotl",
+      "source_path": "mlops/training/axolotl",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "Parameter-efficient fine-tuning for LLMs using LoRA, QLoRA, and 25+ methods. Use when fine-tuning large models (7B-70B) with limited GPU memory, when you need to train <1% of parameters with minimal accuracy loss, or for multi-adapter serving. HuggingFace's official library integrated with transformers ecosystem.",
+      "hash": "80a1cfda2c556860",
+      "name": "peft",
+      "snapshot_path": "active/mlops/training/peft",
+      "source_path": "mlops/training/peft",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "TRL: SFT, DPO, PPO, GRPO, reward modeling for LLM RLHF.",
+      "hash": "ad0792435a5466ab",
+      "name": "trl-fine-tuning",
+      "snapshot_path": "active/mlops/training/trl-fine-tuning",
+      "source_path": "mlops/training/trl-fine-tuning",
+      "status": "active"
+    },
+    {
+      "category": "mlops",
+      "description": "Unsloth: 2-5x faster LoRA/QLoRA fine-tuning, less VRAM.",
+      "hash": "05961478fad35eb9",
+      "name": "unsloth",
+      "snapshot_path": "active/mlops/training/unsloth",
+      "source_path": "mlops/training/unsloth",
+      "status": "active"
+    },
+    {
+      "category": "note-taking",
+      "description": "Read, search, create, and edit notes in the Obsidian vault.",
+      "hash": "d2d080f82893dac8",
+      "name": "obsidian",
+      "snapshot_path": "active/note-taking/obsidian",
+      "source_path": "note-taking/obsidian",
+      "status": "active"
+    },
+    {
+      "category": "productivity",
+      "description": "Airtable REST API via curl. Records CRUD, filters, upserts.",
+      "hash": "98f5dbe677a63b94",
+      "name": "airtable",
+      "snapshot_path": "active/productivity/airtable",
+      "source_path": "productivity/airtable",
+      "status": "active"
+    },
+    {
+      "category": "productivity",
+      "description": "Gmail, Calendar, Drive, Docs, Sheets via gws CLI or Python.",
+      "hash": "014a4818ee1b363d",
+      "name": "google-workspace",
+      "snapshot_path": "active/productivity/google-workspace",
+      "source_path": "productivity/google-workspace",
+      "status": "active"
+    },
+    {
+      "category": "productivity",
+      "description": "Linear: manage issues, projects, teams via GraphQL + curl.",
+      "hash": "a4da1cde7b8d347a",
+      "name": "linear",
+      "snapshot_path": "active/productivity/linear",
+      "source_path": "productivity/linear",
+      "status": "active"
+    },
+    {
+      "category": "productivity",
+      "description": "Geocode, POIs, routes, timezones via OpenStreetMap/OSRM.",
+      "hash": "8c961ecf662838e3",
+      "name": "maps",
+      "snapshot_path": "active/productivity/maps",
+      "source_path": "productivity/maps",
+      "status": "active"
+    },
+    {
+      "category": "productivity",
+      "description": "Edit PDF text/typos/titles via nano-pdf CLI (NL prompts).",
+      "hash": "4243b329789c6d7f",
+      "name": "nano-pdf",
+      "snapshot_path": "active/productivity/nano-pdf",
+      "source_path": "productivity/nano-pdf",
+      "status": "active"
+    },
+    {
+      "category": "productivity",
+      "description": "Notion API + ntn CLI: pages, databases, markdown, Workers.",
+      "hash": "4a5d878f33c513a1",
+      "name": "notion",
+      "snapshot_path": "active/productivity/notion",
+      "source_path": "productivity/notion",
+      "status": "active"
+    },
+    {
+      "category": "productivity",
+      "description": "Extract text from PDFs/scans (pymupdf, marker-pdf).",
+      "hash": "720a1f1a534167ef",
+      "name": "ocr-and-documents",
+      "snapshot_path": "active/productivity/ocr-and-documents",
+      "source_path": "productivity/ocr-and-documents",
+      "status": "active"
+    },
+    {
+      "category": "productivity",
+      "description": "Create, read, edit .pptx decks, slides, notes, templates.",
+      "hash": "bb2084f5da312eec",
+      "name": "powerpoint",
+      "snapshot_path": "active/productivity/powerpoint",
+      "source_path": "productivity/powerpoint",
+      "status": "active"
+    },
+    {
+      "category": "productivity",
+      "description": "Operate the Teams meeting summary pipeline via Hermes CLI \u2014 summarize meetings, inspect pipeline status, replay jobs, manage Microsoft Graph subscriptions.",
+      "hash": "188699ce83a228f1",
+      "name": "teams-meeting-pipeline",
+      "snapshot_path": "active/productivity/teams-meeting-pipeline",
+      "source_path": "productivity/teams-meeting-pipeline",
+      "status": "active"
+    },
+    {
+      "category": "red-teaming",
+      "description": "Jailbreak LLMs: Parseltongue, GODMODE, ULTRAPLINIAN.",
+      "hash": "f44b595957155422",
+      "name": "godmode",
+      "snapshot_path": "active/red-teaming/godmode",
+      "source_path": "red-teaming/godmode",
+      "status": "active"
+    },
+    {
+      "category": "research",
+      "description": "Search arXiv papers by keyword, author, category, or ID.",
+      "hash": "2a6073a1ad08823d",
+      "name": "arxiv",
+      "snapshot_path": "active/research/arxiv",
+      "source_path": "research/arxiv",
+      "status": "active"
+    },
+    {
+      "category": "research",
+      "description": "Monitor blogs and RSS/Atom feeds via blogwatcher-cli tool.",
+      "hash": "b85be5a9b86b9028",
+      "name": "blogwatcher",
+      "snapshot_path": "active/research/blogwatcher",
+      "source_path": "research/blogwatcher",
+      "status": "active"
+    },
+    {
+      "category": "research",
+      "description": "Karpathy's LLM Wiki: build/query interlinked markdown KB.",
+      "hash": "eb13a2b8c654eeee",
+      "name": "llm-wiki",
+      "snapshot_path": "active/research/llm-wiki",
+      "source_path": "research/llm-wiki",
+      "status": "active"
+    },
+    {
+      "category": "research",
+      "description": "Query Polymarket: markets, prices, orderbooks, history.",
+      "hash": "becfa71e730b482c",
+      "name": "polymarket",
+      "snapshot_path": "active/research/polymarket",
+      "source_path": "research/polymarket",
+      "status": "active"
+    },
+    {
+      "category": "research",
+      "description": "Write ML papers for NeurIPS/ICML/ICLR: design\u2192submit.",
+      "hash": "5bc92cec8357a19d",
+      "name": "research-paper-writing",
+      "snapshot_path": "active/research/research-paper-writing",
+      "source_path": "research/research-paper-writing",
+      "status": "active"
+    },
+    {
+      "category": "seo",
+      "description": "Read-only GearUpToFit.com SEO/GEO/AEO crawl triage workflow before production edits. Captures public-surface audit commands, known URL classes, and recurring pitfalls for category/tool/template checks.",
+      "hash": "9abd10c6016f8e72",
+      "name": "gearuptofit-seo-crawl-triage",
+      "snapshot_path": "active/seo/gearuptofit-seo-crawl-triage",
+      "source_path": "seo/gearuptofit-seo-crawl-triage",
+      "status": "active"
+    },
+    {
+      "category": "seo",
+      "description": "Diagnose and recover from Google index drops: GSC API, sitemap audit, noindex checks, Indexing API, Cloudflare bypass",
+      "hash": "d398a4053ba60ea3",
+      "name": "seo-index-recovery",
+      "snapshot_path": "active/seo/seo-index-recovery",
+      "source_path": "seo/seo-index-recovery",
+      "status": "active"
+    },
+    {
+      "category": "smart-home",
+      "description": "Control Philips Hue lights, scenes, rooms via OpenHue CLI.",
+      "hash": "550f94848d10ab82",
+      "name": "openhue",
+      "snapshot_path": "active/smart-home/openhue",
+      "source_path": "smart-home/openhue",
+      "status": "active"
+    },
+    {
+      "category": "social-media",
+      "description": "Create and schedule SOTA social media posts for all 8 WP sites via FeedHive API",
+      "hash": "b57f5310d34aae7c",
+      "name": "feedhive-sota-social-posting",
+      "snapshot_path": "active/social-media/feedhive-sota-social-posting",
+      "source_path": "social-media/feedhive-sota-social-posting",
+      "status": "active"
+    },
+    {
+      "category": "social-media",
+      "description": "Plan, draft, approve, schedule, and verify social media campaigns across connected schedulers and social accounts.",
+      "hash": "32507d3299bd729e",
+      "name": "social-media-campaigns",
+      "snapshot_path": "active/social-media/social-media-campaigns",
+      "source_path": "social-media/social-media-campaigns",
+      "status": "active"
+    },
+    {
+      "category": "social-media",
+      "description": "Interact with X/Twitter via the x-cli terminal client using official X API credentials. Use for posting, reading timelines, searching tweets, liking, retweeting, bookmarks, mentions, and user lookups.",
+      "hash": "ffd939d7753132bc",
+      "name": "xitter",
+      "snapshot_path": "active/social-media/xitter",
+      "source_path": "social-media/xitter",
+      "status": "active"
+    },
+    {
+      "category": "social-media",
+      "description": "X/Twitter via xurl CLI: post, search, DM, media, v2 API.",
+      "hash": "53f67241ec0f6051",
+      "name": "xurl",
+      "snapshot_path": "active/social-media/xurl",
+      "source_path": "social-media/xurl",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Verify work with concrete evidence before claiming done. Use for fixes, deployments, code changes, automations, and workflows that need proof, not optimism.",
+      "hash": "3de3fc306cfaac91",
+      "name": "auto-verification",
+      "snapshot_path": "active/software-development/auto-verification",
+      "source_path": "software-development/auto-verification",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Guidelines for performing thorough code reviews with security and quality focus",
+      "hash": "dd3915ef3c530674",
+      "name": "code-review",
+      "snapshot_path": "active/software-development/code-review",
+      "source_path": "software-development/code-review",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "CodeWhale-inspired Hermes operating mode for SOTA coding/repo work: Fin-style cheap coordination, strict subagent role postures, evidence-first child output, context/cache hygiene, and verification discipline.",
+      "hash": "5f3489d316e87ca8",
+      "name": "codewhale-powercharge",
+      "snapshot_path": "active/software-development/codewhale-powercharge",
+      "source_path": "software-development/codewhale-powercharge",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Debug Hermes TUI slash commands: Python, gateway, Ink UI.",
+      "hash": "55d5811c0b2d872d",
+      "name": "debugging-hermes-tui-commands",
+      "snapshot_path": "active/software-development/debugging-hermes-tui-commands",
+      "source_path": "software-development/debugging-hermes-tui-commands",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Use the Graphify skills supergraph to route, combine, and query Hermes skills with far fewer tokens. Load when a task may require multiple skills, skill routing, SEO/WordPress workflows, Hermes troubleshooting, or when the user asks for maximum efficiency.",
+      "hash": "c38ab92d49aa09cc",
+      "name": "graphify-superpowers",
+      "snapshot_path": "active/software-development/graphify-superpowers",
+      "source_path": "software-development/graphify-superpowers",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Author in-repo SKILL.md: frontmatter, validator, structure.",
+      "hash": "50ac9cc9950bea07",
+      "name": "hermes-agent-skill-authoring",
+      "snapshot_path": "active/software-development/hermes-agent-skill-authoring",
+      "source_path": "software-development/hermes-agent-skill-authoring",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Implement SOTA agent-superpower compatibility in Hermes by adapting patterns from external agent frameworks such as OpenHands without bloating runtime or breaking prompt caching.",
+      "hash": "ea337518a3b71fb3",
+      "name": "hermes-agent-superpower-compatibility",
+      "snapshot_path": "active/software-development/hermes-agent-superpower-compatibility",
+      "source_path": "software-development/hermes-agent-superpower-compatibility",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Modify, debug, or extend the s6-overlay supervision tree inside the Hermes Agent Docker image \u2014 adding new services, debugging profile gateways, understanding the Architecture B main-program pattern.",
+      "hash": "14d4231474657142",
+      "name": "hermes-s6-container-supervision",
+      "snapshot_path": "active/software-development/hermes-s6-container-supervision",
+      "source_path": "software-development/hermes-s6-container-supervision",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Debug Node.js via --inspect + Chrome DevTools Protocol CLI.",
+      "hash": "f2f72c0c9e67143e",
+      "name": "node-inspect-debugger",
+      "snapshot_path": "active/software-development/node-inspect-debugger",
+      "source_path": "software-development/node-inspect-debugger",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Plan mode for Hermes \u2014 inspect context, write a markdown plan into the active workspace's `.hermes/plans/` directory, and do not execute the work.",
+      "hash": "4bfc1e2099121637",
+      "name": "plan",
+      "snapshot_path": "active/software-development/plan",
+      "source_path": "software-development/plan",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Debug Python: pdb REPL + debugpy remote (DAP).",
+      "hash": "ce7e38367ea54fb8",
+      "name": "python-debugpy",
+      "snapshot_path": "active/software-development/python-debugpy",
+      "source_path": "software-development/python-debugpy",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Use when completing tasks, implementing major features, or before merging. Validates work meets requirements through systematic review process.",
+      "hash": "4e258ee0845e6063",
+      "name": "requesting-code-review",
+      "snapshot_path": "active/software-development/requesting-code-review",
+      "source_path": "software-development/requesting-code-review",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Use Semble for ultra-low-token semantic/lexical code search across local WordPress/plugin/theme/snippet/automation repos. Load when investigating codebases, WordPress technical SEO code, schema/canonical/redirect logic, REST scripts, plugins, themes, snippets, or when user requests token-efficient code inspection.",
+      "hash": "535b06e109d720df",
+      "name": "semble-code-search",
+      "snapshot_path": "active/software-development/semble-code-search",
+      "source_path": "software-development/semble-code-search",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Use first when unsure which skill to load, when a task spans multiple skills, or when you want the smallest effective workflow with minimal token waste.",
+      "hash": "5113a00efb065e80",
+      "name": "skill-router",
+      "snapshot_path": "active/software-development/skill-router",
+      "source_path": "software-development/skill-router",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Throwaway experiments to validate an idea before build.",
+      "hash": "d301bdb6e90a96d0",
+      "name": "spike",
+      "snapshot_path": "active/software-development/spike",
+      "source_path": "software-development/spike",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Use when executing implementation plans with independent tasks. Dispatches fresh delegate_task per task with two-stage review (spec compliance then code quality).",
+      "hash": "89c8303205938c1c",
+      "name": "subagent-driven-development",
+      "snapshot_path": "active/software-development/subagent-driven-development",
+      "source_path": "software-development/subagent-driven-development",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "4-phase root cause debugging: understand bugs before fixing.",
+      "hash": "c1d66056ce0b4ec8",
+      "name": "systematic-debugging",
+      "snapshot_path": "active/software-development/systematic-debugging",
+      "source_path": "software-development/systematic-debugging",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "TDD: enforce RED-GREEN-REFACTOR, tests before code.",
+      "hash": "6896c8f090b4bf75",
+      "name": "test-driven-development",
+      "snapshot_path": "active/software-development/test-driven-development",
+      "source_path": "software-development/test-driven-development",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Discover and digest repo-local instruction files before serious code or workspace work so execution follows local rules instead of generic defaults.",
+      "hash": "ee31403b01d29592",
+      "name": "workspace-instruction-discovery",
+      "snapshot_path": "active/software-development/workspace-instruction-discovery",
+      "source_path": "software-development/workspace-instruction-discovery",
+      "status": "active"
+    },
+    {
+      "category": "software-development",
+      "description": "Use when you have a spec or requirements for a multi-step task. Creates comprehensive implementation plans with bite-sized tasks, exact file paths, and complete code examples.",
+      "hash": "9b4e257d25ccccf0",
+      "name": "writing-plans",
+      "snapshot_path": "active/software-development/writing-plans",
+      "source_path": "software-development/writing-plans",
+      "status": "active"
+    },
+    {
+      "category": "wp-rest-cloudflare",
+      "description": "Patterns for working with WordPress REST API when Cloudflare blocks wp-admin. Covers authentication, content updates with WAF bypass, XML-RPC fallback, Elementor CSS issues, and preventing WordPress auto-wrapping of HTML.",
+      "hash": "3d64339d5da0ca96",
+      "name": "wp-rest-cloudflare",
+      "snapshot_path": "active/wp-rest-cloudflare",
+      "source_path": "wp-rest-cloudflare",
+      "status": "active"
+    },
+    {
+      "category": "yuanbao",
+      "description": "Yuanbao (\u5143\u5b9d) groups: @mention users, query info/members.",
+      "hash": "239e4875f511124f",
+      "name": "yuanbao",
+      "snapshot_path": "active/yuanbao",
+      "source_path": "yuanbao",
+      "status": "active"
+    }
+  ],
+  "source": "/home/hermes/.hermes/skills"
+}

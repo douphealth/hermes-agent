@@ -29,6 +29,7 @@ _DEFAULT_CAPTURE_MODE = "all"
 _DEFAULT_SEARCH_MODE = "hybrid"
 _VALID_SEARCH_MODES = ("hybrid", "memories", "documents")
 _DEFAULT_API_TIMEOUT = 5.0
+_ENABLE_KEBAB_ALIASES_ENV = "SUPERMEMORY_ENABLE_KEBAB_ALIASES"
 _MIN_CAPTURE_LENGTH = 10
 _MAX_ENTITY_CONTEXT_LENGTH = 1500
 _CONVERSATIONS_URL = "https://api.supermemory.ai/v4/conversations"
@@ -216,9 +217,9 @@ def _format_prefetch_context(static_facts: list, dynamic_facts: list, search_res
 
     sections = []
     if statics:
-        sections.append("## User Profile (Persistent)\n" + "\n".join(f"- {item}" for item in statics))
+        sections.append("Profile\n" + "\n".join(f"- {item}" for item in statics))
     if dynamics:
-        sections.append("## Recent Context\n" + "\n".join(f"- {item}" for item in dynamics))
+        sections.append("Recent\n" + "\n".join(f"- {item}" for item in dynamics))
     if search:
         lines = []
         for item in search:
@@ -239,14 +240,11 @@ def _format_prefetch_context(static_facts: list, dynamic_facts: list, search_res
             prefix = " ".join(prefix_bits)
             lines.append(f"- {prefix} {memory}".strip())
         if lines:
-            sections.append("## Relevant Memories\n" + "\n".join(lines))
+            sections.append("Relevant\n" + "\n".join(lines))
     if not sections:
         return ""
 
-    intro = (
-        "The following is background context from long-term memory. Use it silently when relevant. "
-        "Do not force memories into the conversation."
-    )
+    intro = "Long-term memory. Use silently when relevant; do not force it."
     body = "\n\n".join(sections)
     return f"<supermemory-context>\n{intro}\n\n{body}\n</supermemory-context>"
 
@@ -552,9 +550,7 @@ class SupermemoryMemoryProvider(MemoryProvider):
         if not self._active:
             return ""
         lines = [
-            "# Supermemory",
-            f"Active. Container: {self._container_tag}.",
-            "Use supermemory-search, supermemory-save, supermemory-forget, and supermemory-profile (aliases: supermemory_search, supermemory_store, supermemory_forget, supermemory_profile).",
+            f"Supermemory active: container={self._container_tag}. Use supermemory_search/store/forget/profile when useful.",
         ]
         if self._enable_custom_containers and self._custom_containers:
             tags_str = ", ".join(self._allowed_containers)
@@ -747,6 +743,8 @@ class SupermemoryMemoryProvider(MemoryProvider):
 
     def get_tool_schemas(self) -> List[Dict[str, Any]]:
         def with_kebab_aliases(schemas: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+            if os.environ.get(_ENABLE_KEBAB_ALIASES_ENV, "").strip().lower() not in {"1", "true", "yes", "on"}:
+                return list(schemas)
             aliases = {
                 "supermemory_store": "supermemory-save",
                 "supermemory_search": "supermemory-search",

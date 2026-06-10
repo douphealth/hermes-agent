@@ -119,9 +119,9 @@ def test_prefetch_includes_profile_on_first_turn(provider):
     }
     provider.on_turn_start(1, "start")
     result = provider.prefetch("what am I working on?")
-    assert "User Profile (Persistent)" in result
-    assert "Recent Context" in result
-    assert "Relevant Memories" in result
+    assert "Profile" in result
+    assert "Jordan prefers short answers" in result
+    assert "Relevant" in result
 
 
 def test_prefetch_skips_profile_between_frequency(provider):
@@ -132,8 +132,8 @@ def test_prefetch_skips_profile_between_frequency(provider):
     }
     provider.on_turn_start(2, "next")
     result = provider.prefetch("what am I working on?")
-    assert "Relevant Memories" in result
-    assert "User Profile (Persistent)" not in result
+    assert "Relevant" in result
+    assert "Profile" not in result
 
 
 def test_sync_turn_buffers_short_messages(provider):

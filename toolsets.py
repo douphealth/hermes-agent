@@ -59,6 +59,8 @@ _HERMES_CORE_TOOLS = [
     "execute_code", "delegate_task",
     # Cronjob management
     "cronjob",
+    # Autoresearch experiment-loop kernel (branch, run, metric, keep/reset)
+    "autoresearch",
     # Cross-platform messaging (gated on gateway running via check_fn)
     "send_message",
     # Home Assistant smart home control (gated on HASS_TOKEN via check_fn)
@@ -185,6 +187,12 @@ TOOLSETS = {
     "cronjob": {
         "description": "Cronjob management tool - create, list, update, pause, resume, remove, and trigger scheduled tasks",
         "tools": ["cronjob"],
+        "includes": []
+    },
+
+    "autoresearch": {
+        "description": "Autonomous experiment loop kernel: setup branch, run bounded trials, parse metrics, keep improvements, reset failures",
+        "tools": ["autoresearch"],
         "includes": []
     },
     

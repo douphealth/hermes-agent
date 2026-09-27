@@ -1,0 +1,11 @@
+name: jev-fastlane
+version: 1.0.0
+description: "Jev System One routing and high-risk mutation guardrails for fast, token-efficient Hermes turns."
+author: "Alexios / OpenAI"
+hooks:
+  - pre_llm_call
+  - pre_tool_call
+  - post_llm_call
+  - on_session_end
+  - on_session_reset
+  - on_session_finalize
